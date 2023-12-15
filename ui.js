@@ -60,7 +60,9 @@
                             } </div>
                             <div style="color:#716E7B;margin-left:20px;margin-top:3px;font-size:10px;"> ${
                               d.data.position
-                            } </div>
+                            } 
+                            <a href = "https://deanattali.com/shinyjs/overview", target = "_blank">Link</a>
+                            </div>
 
                         </div>
                     </div>
